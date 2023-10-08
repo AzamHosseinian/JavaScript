@@ -16,7 +16,7 @@ typeof 'hello'
 alert('Items (' + (1 + 1) + '): $' + (2095 + 799) / 100);
 
 "hello"
-"I'm learning JavaScript"
+
 
 'I\'m learning JavaScript'
 alert('some\ntext');
